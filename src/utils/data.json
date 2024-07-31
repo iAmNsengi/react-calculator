@@ -9,11 +9,11 @@
   },
   {
     "title": "%",
-    "type": "abs"
+    "type": "mod"
   },
   {
     "title": " / ",
-    "type": "abs"
+    "type": "operator"
   },
   {
     "title": "7",
@@ -62,5 +62,18 @@
   {
     "title": "+",
     "type": "operator"
+  },
+  {
+    "title": "0",
+    "type": "operand",
+    "span": "2"
+  },
+  {
+    "title": ".",
+    "type": "dot"
+  },
+  {
+    "title": "=",
+    "type": "equal"
   }
 ]
